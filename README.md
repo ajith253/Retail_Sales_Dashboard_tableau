@@ -25,3 +25,6 @@ The objective of this project is to help stakeholders understand sales performan
 - Combined all charts into a single dashboard and applied filters for dynamic interaction.
 
 ## Dashboard 
+![Tableau_project](https://github.com/user-attachments/assets/07847ed9-677d-4396-8f70-331f885a898c)
+
+
