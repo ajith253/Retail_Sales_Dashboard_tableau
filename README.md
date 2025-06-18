@@ -1,4 +1,4 @@
-# Retail Sales Data Analysis (Interactive Dashboard using Tableau)
+![Tableau_project](https://github.com/user-attachments/assets/9903a047-c7be-4a0f-b7c1-cd608a85cc9d)# Retail Sales Data Analysis (Interactive Dashboard using Tableau)
 # Short Description
 Developed an interactive Tableau dashboard to visualize and analyze retail sales and profit data by category, region, and month.
 ## Project Objective
@@ -26,5 +26,15 @@ The objective of this project is to help stakeholders understand sales performan
 
 ## Dashboard 
 ![Tableau_project](https://github.com/user-attachments/assets/07847ed9-677d-4396-8f70-331f885a898c)
+
+## Project Insights
+- The Corporate segment contributed the highest sales.
+- West and East regions generated the highest profits.
+- Products in the Office Supplies category had the highest order quantity.
+- Excessive discounts resulted in negative profit in multiple transactions.
+- Most orders were delivered within 5–7 days of order date.
+
+## Final Conclusion
+The analysis shows that the business can boost profits by reducing unnecessary discounts and focusing on high-performing segments like Corporate and Office Supplies. Investing in faster shipping and personalized marketing based on segment-wise trends will likely yield better customer satisfaction and higher revenue.
 
 
