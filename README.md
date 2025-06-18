@@ -1,4 +1,4 @@
-![Tableau_project](https://github.com/user-attachments/assets/9903a047-c7be-4a0f-b7c1-cd608a85cc9d)# Retail Sales Data Analysis (Interactive Dashboard using Tableau)
+# Retail Sales Data Analysis (Interactive Dashboard using Tableau)
 # Short Description
 Developed an interactive Tableau dashboard to visualize and analyze retail sales and profit data by category, region, and month.
 ## Project Objective
