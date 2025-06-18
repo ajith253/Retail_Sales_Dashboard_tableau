@@ -3,3 +3,7 @@
 Developed an interactive Tableau dashboard to visualize and analyze retail sales and profit data by category, region, and month.
 ## Project Objective
 The objective of this project is to help stakeholders understand sales performance across different product categories and regions, identify trends, and support data-driven decision-making to improve future business strategies.
+
+## Dataset Used 
+- <a href="https://github.com/ajith253/Retail_Sales_Dashboard_tableau/blob/main/Tableau%20Project.twbx">Superstore Dataset</a>
+
